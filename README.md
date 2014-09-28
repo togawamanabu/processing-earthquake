@@ -1,11 +1,11 @@
 EarthQuake Visualize Processing.
 ========================================
 地震情報の可視化Processingアプリ
-八重山ハザードマップ(http://yaeyamahazardmap.com)のイベントで使用するために作成されました。
+八重山ハザードマップ( http://yaeyamahazardmap.com ) のイベントで使用するために作成されました。
 
-コードフォーおきなわ(http://code4okinawa.org)のプロジェクトの一つとして公開します。
-
-開発 : Pawana LLC(http://www.pawana.jp) togawa manabu
+コードフォーおきなわ( http://code4okinawa.org )のプロジェクトの一つとして公開します。
+ 
+開発 : Pawana LLC( http://www.pawana.jp ) togawa manabu
 
 ライセンス
 -----------
